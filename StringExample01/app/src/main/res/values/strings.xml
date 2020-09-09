@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">시 목록</string>
+
+    <string name="title">별 헤는 밤</string>
+    <string name="author1">윤동주</string>
+    <string name="body1">
+        계졀이 지나가는 하늘에는
+        가을로 가득 차있습니다.
+        나는 아무 걱정도 없이
+        가늘 속의 별들을 다 헤일듯합니다.
+    </string>
+
+</resources>

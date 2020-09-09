@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="app_name2">image</string>
+
+    <string name="title1">무지개</string>
+    <string name="artist1">익명1</string>
+    <string name="picture1">rainbow</string>
+
+    <string name="title2">계란</string>
+    <string name="artist2">익명2</string>
+    <string name="picture2">egg</string>
+
+</resources>
