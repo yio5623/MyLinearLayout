@@ -2,6 +2,7 @@ package com.example.galleryexample01;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.LinearLayout;
@@ -21,5 +22,9 @@ public class MainActivity extends AppCompatActivity {
         String tag = (String) layout.getTag();
 
         Toast.makeText(this, "클릭한 아이템 : " + tag, Toast.LENGTH_LONG).show();
+
+        Intent it = new Intent(this, Picture.class);
+        it.putExtra("it_tag",tag);
+        startActivity(it);
     }
 }
