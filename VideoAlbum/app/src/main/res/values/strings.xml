@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">비디오 앨범</string>
+
+    <string name="title1">creek_rock</string>
+    <string name="artist1">익명1</string>
+    <string name="video1">creek_rock</string>
+
+    <string name="title2">fountain_night</string>
+    <string name="artist2">익명2</string>
+    <string name="video2">fountain_night</string>
+
+    <string name="title3">waterfall_street</string>
+    <string name="artist3">익명3</string>
+    <string name="video3">waterfall_street</string>
+</resources>
